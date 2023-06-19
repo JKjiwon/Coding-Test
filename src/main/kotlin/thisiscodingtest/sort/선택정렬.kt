@@ -1,4 +1,4 @@
-package sort
+package thisiscodingtest.sort
 
 /**
  * 1. 배열을 순회하면서 가장 작은 것을 찾는다.

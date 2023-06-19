@@ -1,4 +1,4 @@
-package sort
+package thisiscodingtest.sort
 
 // 기본 정렬 알고리즘
 

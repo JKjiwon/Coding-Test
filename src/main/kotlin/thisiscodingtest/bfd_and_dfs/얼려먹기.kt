@@ -1,4 +1,4 @@
-package bfd_and_dfs
+package thisiscodingtest.bfd_and_dfs
 
 import java.util.*
 

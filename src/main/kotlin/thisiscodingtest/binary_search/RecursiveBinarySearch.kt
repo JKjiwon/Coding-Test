@@ -1,4 +1,4 @@
-package binary_search
+package thisiscodingtest.binary_search
 
 fun main() = with(System.`in`.bufferedReader()) {
     val (n, m) = readLine().split(" ").map { it.toInt() }

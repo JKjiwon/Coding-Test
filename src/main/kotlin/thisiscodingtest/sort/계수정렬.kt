@@ -1,4 +1,4 @@
-package sort
+package thisiscodingtest.sort
 
 /**
  * 숫자의 개수를 세는 size 가 array 의 max 값 + 1 만큼의 countArray 를 만든다.

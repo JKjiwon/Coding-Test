@@ -1,4 +1,4 @@
-package binary_search
+package thisiscodingtest.binary_search
 
 /**
  * N개의 부품 중 M개 모두가 있는지 확인

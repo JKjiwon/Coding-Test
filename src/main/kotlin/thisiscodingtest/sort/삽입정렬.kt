@@ -1,4 +1,4 @@
-package sort
+package thisiscodingtest.sort
 
 // 배열을 순회하면서 선택한 값을 오름 차순을 유지하는 곳에 삽입한다.
 

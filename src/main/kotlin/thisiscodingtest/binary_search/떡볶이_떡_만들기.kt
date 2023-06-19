@@ -1,4 +1,4 @@
-package binary_search
+package thisiscodingtest.binary_search
 
 /**
  * 떡의 최대기 길이가 20억 이므로 31번 만에 최적해를 찾을 수 있다.

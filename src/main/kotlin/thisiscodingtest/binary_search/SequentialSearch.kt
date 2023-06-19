@@ -1,4 +1,4 @@
-package binary_search
+package thisiscodingtest.binary_search
 
 fun main() = with(System.`in`.bufferedReader()) {
     var inputData = readLine().split(" ")

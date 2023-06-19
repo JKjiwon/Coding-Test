@@ -1,4 +1,4 @@
-package sort
+package thisiscodingtest.sort
 
 /**
  * 기준 데이터를 설정하고 그 기준보다 큰 데이터와 작은 데이터의 위치를 바꾸자.
