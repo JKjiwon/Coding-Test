@@ -1,6 +1,6 @@
 package programers.lv1
 
-class Solution {
+class Solution006 {
     fun solution(n: Int, m: Int, section: IntArray): Int {
         var paintedStartSection = section[0]
         var count = 1
