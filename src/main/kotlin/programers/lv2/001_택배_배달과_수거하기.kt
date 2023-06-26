@@ -1,5 +1,7 @@
 package programers.lv2
 
+// 그리디
+// 가장 먼 지역부터 처리
 class Solution001 {
     fun solution(cap: Int, n: Int, deliveries: IntArray, pickups: IntArray): Long {
         deliveries.reverse()
